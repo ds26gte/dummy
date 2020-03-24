@@ -1,0 +1,29 @@
+= Time comparison of fresh run vs recycled run
+
+== bs-game-pathway-wescheme
+
+=== Fresh run
+
+  real    8m24.007s
+  user    6m42.322s
+  sys     0m47.669s
+
+=== Run with recycling
+
+  real    0m3.272s
+  user    0m2.213s
+  sys     0m1.179s
+
+== bs-game-pathway-pyret
+
+=== Fresh run
+
+  real    9m32.503s
+  user    7m38.766s
+  sys     0m53.365s
+
+=== Run with recycling
+
+  real    0m3.695s
+  user    0m2.638s
+  sys     0m1.218s
