@@ -1,0 +1,11 @@
+ mode
+		i	Insert mode
+		c	Command-line mode
+		h	all previous modes when editing a help file
+		a	all previous modes
+		r	for |hit-enter| and |more-prompt| prompt
+
+	Left-click anywhere in a text buffer to place the cursor there.  This
+	works with operators too, e.g. type |d| the
+
+
