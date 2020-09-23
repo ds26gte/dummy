@@ -1,4 +1,18 @@
+<<<<<<< HEAD
 first line
+=======
+second first
+
+definitely using main
+
+kjdflkjafd
+
+Rerum enim nesciunt molestias dolor placeat aliquam voluptatem.
+Autem nam deleniti perferendis dolore. Esse numquam consequuntur
+corrupti eligendi nihil.
+
+Quidem aperiam est ea alias et aut qui. Placeat modi vero cum
+>>>>>>> main
 
 Odio sed dolore laborum. Dolore eum perspiciatis dolor
 consequatur perferendis expedita accusantium. Impedit nesciunt id
@@ -8,7 +22,6 @@ Et molestiae omnis voluptatem et eligendi. Et maiores qui ratione
 animi. Deserunt modi quo aperiam illum quam ut laudantium. Rerum
 quia labore eligendi perspiciatis iusto rerum totam. Cumque nihil
 pariatur maiores dolores qui.
-
 
 Provident iusto voluptas explicabo omnis at magni quod non.
 Asperiores enim et saepe corporis. Ullam distinctio cumque qui in
@@ -45,15 +58,9 @@ Magnam sit et atque. Voluptas eius optio adipisci soluta. Ut et
 officiis voluptates nisi. Nulla ipsam quia quas quisquam ut.
 Illum aut ut ex excepturi tempora.
 
-
-
-
-
-
 Non ipsam aspernatur repellat tempora eos consequuntur. Non
 cumque non nisi. Sapiente sed accusantium nostrum deserunt. Natus
 quidem harum mollitia illum consectetur facilis ut.
-
 
 Dolorum eaque rem necessitatibus aut voluptatem provident
 expedita. Aut inventore ipsam autem. Aut omnis quis iste totam
