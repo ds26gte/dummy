@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 first line
-=======
 second first
 
 definitely using main
@@ -12,7 +10,6 @@ Autem nam deleniti perferendis dolore. Esse numquam consequuntur
 corrupti eligendi nihil.
 
 Quidem aperiam est ea alias et aut qui. Placeat modi vero cum
->>>>>>> main
 
 Odio sed dolore laborum. Dolore eum perspiciatis dolor
 consequatur perferendis expedita accusantium. Impedit nesciunt id
