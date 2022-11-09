@@ -128,3 +128,14 @@ aut laboriosam corrupti optio a.
 Laudantium natus ipsa voluptas voluptatem cumque totam vel. Qui
 et voluptas blanditiis. Et minus maiores modi assumenda deleniti
 et.
+
+```mermaid
+stateDiagram-v2
+  [*] --> Still
+  Still --> [*]
+
+  Still --> Moving
+  Moving --> Still
+  Moving --> Crash
+  Crash --> [*]
+```
