@@ -1,7 +1,7 @@
 definitely using main
 
 - `+(cliiscm-rename (old1 new1) ...)+` will change all
-occurrences of `+old1 ...+` to `+new1 ...+`.
+occurrences of `+old1 ...+` to `new1 ...`.
 
 The directory `mpca` contains the macro file `pca.tmac` and
 several subfiles `++pca-*.tmac++`. Either include this directory in
