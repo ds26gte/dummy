@@ -6,14 +6,14 @@ definitely using main
 - `+(cliiscm-rename (old1 new1) ...)+` will change all
 occurrences of `+old1 ...+` to `new1 ...`.
 
-The directory `mpca` contains the macro file `pca.tmac` and
+TIP: The directory `mpca` contains the macro file `pca.tmac` and
 several subfiles `++pca-*.tmac++`. Either include this directory in
 your `GROFF_TMAC_PATH`, or add the `++*.tmac++` files here to some
 directory in your `GROFF_TMAC_PATH`. (If you’re just
 experimenting, you could simply copy the `++*.tmac++` files to your
 home directory.)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+IMPORTANT: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Duis varius dolor in velit condimentum faucibus. Suspendisse
 facilisis, sem a elementum finibus, est velit commodo ante, vitae
 rhoncus quam nisi vel diam. Donec in diam imperdiet, volutpat
