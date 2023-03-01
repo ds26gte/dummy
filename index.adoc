@@ -1,3 +1,6 @@
+= title
+:icons: font
+
 definitely using main
 
 - `+(cliiscm-rename (old1 new1) ...)+` will change all
