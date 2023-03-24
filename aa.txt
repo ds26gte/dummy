@@ -1,3 +1,4 @@
+ lakjfd
  mode
 		i	Insert mode
 		c	Command-line mode
