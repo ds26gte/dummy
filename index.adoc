@@ -1,7 +1,7 @@
 = index
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec  
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
 lectus massa, consequat vel ante sed, sodales congue dui.
 Vivamus ultrices mi vel turpis fringilla egestas. Mauris est
 libero, mollis ut velit ac, tincidunt tristique felis. Proin et
