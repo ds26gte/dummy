@@ -20,12 +20,6 @@ https://bootstrapworld.org/materials/spring2023/en-us
 
 The top directory contains a bunch of scripts and subdirectories.
 
-The curriculum content is placed in the subdirectories `lessons`
-and `pathways`. `lessons` contains individual lessons, including
-the lesson plan, exercises, and printable pages. `pathways`
-contains pathway directories, each of which defines a collection
-of lessons. (It is possible for a lesson to occur in multiple
-pathways.)
 
 The subdirectories `lib` and `shared` contain the components of
 the program used to generate web pages and PDFs from the
